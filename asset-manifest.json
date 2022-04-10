@@ -1,7 +1,7 @@
 {
   "main.css": "/IIScCodingTask/static/css/main.38fc2bc8.chunk.css",
-  "main.js": "/IIScCodingTask/static/js/main.c43ff213.chunk.js",
-  "main.js.map": "/IIScCodingTask/static/js/main.c43ff213.chunk.js.map",
+  "main.js": "/IIScCodingTask/static/js/main.99b8cb6a.chunk.js",
+  "main.js.map": "/IIScCodingTask/static/js/main.99b8cb6a.chunk.js.map",
   "static/css/1.2907935a.chunk.css": "/IIScCodingTask/static/css/1.2907935a.chunk.css",
   "static/js/1.4ab37289.chunk.js": "/IIScCodingTask/static/js/1.4ab37289.chunk.js",
   "static/js/1.4ab37289.chunk.js.map": "/IIScCodingTask/static/js/1.4ab37289.chunk.js.map",
@@ -9,10 +9,10 @@
   "runtime~main.js.map": "/IIScCodingTask/static/js/runtime~main.df514519.js.map",
   "static/media/planet-earth.png": "/IIScCodingTask/static/media/planet-earth.de9536e1.png",
   "static/media/stats.png": "/IIScCodingTask/static/media/stats.3ca4ce40.png",
-  "static/media/Home.css": "/IIScCodingTask/static/media/Rubik-Light.a511edd8.ttf",
-  "static/css/main.38fc2bc8.chunk.css.map": "/IIScCodingTask/static/css/main.38fc2bc8.chunk.css.map",
+  "static/media/Home.css": "/IIScCodingTask/static/media/Rubik-Medium.6fa3da85.ttf",
   "static/css/1.2907935a.chunk.css.map": "/IIScCodingTask/static/css/1.2907935a.chunk.css.map",
+  "static/css/main.38fc2bc8.chunk.css.map": "/IIScCodingTask/static/css/main.38fc2bc8.chunk.css.map",
   "index.html": "/IIScCodingTask/index.html",
-  "precache-manifest.091a6de1215e43abe9adad3235f090c3.js": "/IIScCodingTask/precache-manifest.091a6de1215e43abe9adad3235f090c3.js",
+  "precache-manifest.19b4dbc9a147842225076ff65dcf327b.js": "/IIScCodingTask/precache-manifest.19b4dbc9a147842225076ff65dcf327b.js",
   "service-worker.js": "/IIScCodingTask/service-worker.js"
 }

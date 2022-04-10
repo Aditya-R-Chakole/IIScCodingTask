@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c43ff213aab1835d7b2b",
+    "revision": "99b8cb6ad6a5831a7ca1",
     "url": "/IIScCodingTask/static/css/main.38fc2bc8.chunk.css"
   },
   {
-    "revision": "c43ff213aab1835d7b2b",
-    "url": "/IIScCodingTask/static/js/main.c43ff213.chunk.js"
+    "revision": "99b8cb6ad6a5831a7ca1",
+    "url": "/IIScCodingTask/static/js/main.99b8cb6a.chunk.js"
   },
   {
     "revision": "4ab37289bb6d9731e506",
@@ -28,15 +28,15 @@ self.__precacheManifest = [
     "url": "/IIScCodingTask/static/media/stats.3ca4ce40.png"
   },
   {
-    "revision": "6fa3da851e142b514ac7f0e125955e4c",
-    "url": "/IIScCodingTask/static/media/Rubik-Medium.6fa3da85.ttf"
-  },
-  {
     "revision": "a511edd89a551e8f0db621724e1f93bd",
     "url": "/IIScCodingTask/static/media/Rubik-Light.a511edd8.ttf"
   },
   {
-    "revision": "6cd0d61e8a722c2ee9ff34df7816a128",
+    "revision": "6fa3da851e142b514ac7f0e125955e4c",
+    "url": "/IIScCodingTask/static/media/Rubik-Medium.6fa3da85.ttf"
+  },
+  {
+    "revision": "49d57bde47827db6d18fc4acd52056a6",
     "url": "/IIScCodingTask/index.html"
   }
 ];
