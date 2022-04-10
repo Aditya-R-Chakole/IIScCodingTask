@@ -1,0 +1,48 @@
+@font-face {
+font-family: Rubik;
+src: local("Rubik"),
+    url(./fonts/Rubik-Medium.ttf) format("truetype");
+}
+
+@font-face {
+font-family: Rubik-Light;
+src: local("Rubik-Light"),
+    url(./fonts/Rubik-Light.ttf) format("truetype");
+}
+
+.page-container-ODD{
+    display: flex;
+    flex-direction: row;
+    height: 80vh;
+    padding: 5px;
+}
+
+.container-left-ODD{
+    display: flex;
+    flex-direction: column;
+    flex: 0.25;
+    padding: 5px;
+}
+
+.pageTitle-ODD{
+    font-family: "Rubik", sans-serif;
+    font-size: 40px;
+    margin-bottom: 2.5vh;
+}
+
+.pageBody-ODD{
+    font-family: "Rubik-Light", sans-serif;
+    font-size: 25px;
+}
+
+.container-right-ODD{
+    display: flex;
+    flex: 1;  
+    height: 87.5vh; 
+}
+
+@media only screen and (max-width: 800px) {
+    .page-container-ODD{
+        flex-direction: column;
+    }
+}
