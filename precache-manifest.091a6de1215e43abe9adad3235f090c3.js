@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "308dc3081c20ef2c1984",
+    "revision": "c43ff213aab1835d7b2b",
     "url": "/IIScCodingTask/static/css/main.38fc2bc8.chunk.css"
   },
   {
-    "revision": "308dc3081c20ef2c1984",
-    "url": "/IIScCodingTask/static/js/main.308dc308.chunk.js"
+    "revision": "c43ff213aab1835d7b2b",
+    "url": "/IIScCodingTask/static/js/main.c43ff213.chunk.js"
   },
   {
     "revision": "4ab37289bb6d9731e506",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/IIScCodingTask/static/media/Rubik-Light.a511edd8.ttf"
   },
   {
-    "revision": "d1c6bdca9c7247fa7a1e0e803cd2b71a",
+    "revision": "6cd0d61e8a722c2ee9ff34df7816a128",
     "url": "/IIScCodingTask/index.html"
   }
 ];
